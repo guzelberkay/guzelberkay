@@ -2,9 +2,9 @@
 <h1 align="center">Hi 👋, 🅘'🅜 🅑🅔🅡🅚🅐🅨 🅖🅤̈🅩🅔🅛</h1>
 <h3 align="center">𝐉𝐚𝐯𝐚 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 𝐱 𝐄𝐥𝐞𝐜𝐭𝐫𝐢𝐜𝐚𝐥 𝐚𝐧𝐝 𝐄𝐥𝐞𝐜𝐭𝐫𝐨𝐧𝐢𝐜𝐬 𝐄𝐧𝐠𝐢𝐧𝐞𝐞𝐫𝐢𝐧𝐠</h3>
 
-- 🌱 I’m currently learning **Currently, I am actively participating in an 8-month Java Full Stack Developer Program under the leadership of BilgeAdam Boost.**
+- 🌱  **Currently, I am actively participating in an 8-month Java Full Stack Developer Program under the leadership of BilgeAdam Boost.**
 
-- 💬 Ask me about **I started my career as an electrical-electronics engineer and worked in this field for a long time. However, lately, I've redirected my interest towards the software domain due to the increasing importance of artificial intelligence and software development. In this regard, I'm taking various courses to enhance my skills and continuously researching to adapt to new technologies. By combining my knowledge and experience in both electrical-electronics engineering and software domains, I'm focused on generating innovative solutions. Constantly improving myself and keeping pace with the advancing aspects of technology is an exciting journey for me.**
+- 💬  **I started my career as an electrical-electronics engineer and worked in this field for a long time. However, lately, I've redirected my interest towards the software domain due to the increasing importance of artificial intelligence and software development. In this regard, I'm taking various courses to enhance my skills and continuously researching to adapt to new technologies. By combining my knowledge and experience in both electrical-electronics engineering and software domains, I'm focused on generating innovative solutions. Constantly improving myself and keeping pace with the advancing aspects of technology is an exciting journey for me.**
 
 - 📫 How to reach me **guzelberkay@outlook.com**
 
